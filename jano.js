@@ -3865,7 +3865,7 @@ jano100.on("ready", () => {
     });
   }, 2000);
 });
-//////// playing or dnd  streaming ////////
+//////// playing or dnd  streaming ////////made by nezha bot///////
 
 
 
