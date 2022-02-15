@@ -1,8 +1,8 @@
 {
   "version": "0.0.1",
-  "main": "node jano.js",
+  "main": "node nezh.js",
   "scripts": {
-    "start": "node jano.js"
+    "start": "node nezh.js"
   },
   "dependencies": {
     "discord.js": "^11.5.1",
